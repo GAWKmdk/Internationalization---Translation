@@ -1,0 +1,11 @@
+{
+  "page_title": "il8n Translation",
+  "page_h1": "A sample of Translations using the il8n package.",
+  "select_language": "Select Language",
+  "article_title":"Article Title - This is the headline",
+  "article_summary":"Article Summary - This is a short sentence summary.",
+  "Thumbnail_main_story":"Thumbnail Main Story",
+    "Thumbnail_main_writer":"Thumbnail Main Writer",
+    "Supplmentary_story":"Supplementary Story Story",
+    "written_by":"Written by Person" 
+}

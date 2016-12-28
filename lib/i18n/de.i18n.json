@@ -1,0 +1,11 @@
+{
+  "page_title": "il8n Übersetzung",
+  "page_h1": "Ein Beispiel von Übersetzungen mit dem Paket il8n.",
+  "select_language": "Sprache auswählen",
+  "article_title":"Artikel Titel - Dies ist die Überschrift",
+  "article_summary":"Artikel Zusammenfassung - Dies ist eine kurze Satzzusammenfassung.",
+  "Thumbnail_main_story":"Fotokunst Hauptgeschichte",
+    "Thumbnail_main_writer":"Fotokunst Hauptschrieben",
+    "Supplmentary_story":"Ergänzende Geschichte",
+    "written_by":"Geschrieben von Volken" 
+}

@@ -1,0 +1,85 @@
+<head>
+  <title>Translation i18n</title>
+</head>
+
+<body style="text-align: center;">
+  <h1>{{_ "page_h1"}}</h1>
+<hr>
+  {{> dropdown}}
+  <hr>
+    {{> text_piece}}
+</body>
+
+<template name="dropdown">
+ <!--<a href="" class="btn" data-lang="de">DE</a> | <a href="" class="btn" data-lang="fr">FR</a>-->
+   {{_ 'select_language'}}
+  <ul class="" style="text-align:center;left:22%;" align="center">
+      <li class="btn lang-english"><a href="#" class="lang-english" data-lang="en">English</a></li>
+      <li class="btn lang-french" ><a href="#" class="lang-french" data-lang="fr">Francais</a></li>    
+      <li class="btn lang-german"><a href="#" class="lang-german" data-lang="de">Deutsch</a></li>
+      <li class="btn lang-spanish"><a href="#" class="lang-spanish" data-lang="es">Espanol</a></li>
+      <li class="btn lang-chinese"><a href="#" class="lang-chinese" data-lang="zh">中文</a></li>
+       <li class="btn lang-arabic"><a href="#" class="lang-arabic" data-lang="ar">العربية</a></li>    
+  </ul>
+
+
+</template>
+
+
+<template name="text_piece">
+
+    <div class="container">
+<div class="row">
+    <h1>{{_ 'article_title'}}</h1>
+    <p>{{_ 'article_summary'}}</p>
+</div>
+        <br>
+    <div class="row">
+		<div class="col-md-5 col-lg-5">
+			<!-- artigo em destaque -->
+			<div class="featured-article">
+				<a href="#">
+					<img src="http://placehold.it/482x350" alt="" class="thumb">
+				</a>
+				<div class="block-title">
+					<h2>{{_ 'Thumbnail_main_story'}}</h2>
+					<p class="by-author"><small>{{_ 'Thumbnail_main_writer'}}</small></p>
+				</div>
+			</div>
+			<!-- /.featured-article -->
+		</div>
+		<div class="col-md-7 col-lg-7">
+			<ul class="media-list main-list">
+			  <li class="media">
+			    <a class="pull-left" href="#">
+			      <img class="media-object" src="http://placehold.it/150x90" alt="...">
+			    </a>
+			    <div class="media-body">
+			      <h4 class="media-heading">{{_ 'Supplmentary_story'}}</h4>
+			      <p class="by-author">{{_ 'written_by'}}</p>
+			    </div>
+			  </li>
+			  <li class="media">
+			    <a class="pull-left" href="#">
+			      <img class="media-object" src="http://placehold.it/150x90" alt="...">
+			    </a>
+			    <div class="media-body">
+			     <h4 class="media-heading">{{_ 'Supplmentary_story'}}</h4>
+			      <p class="by-author">{{_ 'written_by'}}</p>
+			    </div>
+			  </li>
+			  <li class="media">
+			    <a class="pull-left" href="#">
+			      <img class="media-object" src="http://placehold.it/150x90" alt="...">
+			    </a>
+			    <div class="media-body">
+			     <h4 class="media-heading">{{_ 'Supplmentary_story'}}</h4>
+			      <p class="by-author">{{_ 'written_by'}}</p>
+			    </div>
+			  </li>
+			</ul>
+		</div>
+	</div>
+    </div>
+
+</template>

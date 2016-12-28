@@ -1,0 +1,8 @@
+{
+   
+    "helper_name": "_",
+    "supported_languages": ["de","fr","es","ar","zh"],
+    "i18n_files_route": "/tap-i18n",
+    "preloaded_langs": ["*"]
+    
+}

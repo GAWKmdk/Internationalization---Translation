@@ -1,0 +1,11 @@
+{
+  "page_title": "il8n Traducción",
+  "page_h1": "Una muestra de Traducciones utilizando el paquete il8n.",
+  "select_language": "Seleccione el idioma",
+  "article_title":"Título del artículo - Este es el título",
+  "article_summary":"Resumen del artículo - Este es un breve resumen de la oración.",
+  "Thumbnail_main_story":"Periodista Titular Principal",
+    "Thumbnail_main_writer":"Periodista Escritor principal",
+    "Supplmentary_story":"Escrita Complementaria",
+    "written_by":"Escrita por las personas" 
+}

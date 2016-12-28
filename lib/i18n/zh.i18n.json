@@ -1,0 +1,11 @@
+{
+  "page_title": "il8n 翻译",
+  "page_h1": "使用il8n包的一个示例。",
+  "select_language": "选择语言",
+  "article_title":"文章标题 - 这是标题",
+  "article_summary":"文章摘要 - 这是一个短句摘要。",
+  "Thumbnail_main_story":"缩略图主要故事",
+    "Thumbnail_main_writer":"缩略图主要作家",
+    "Supplmentary_story":"补充故事",
+    "written_by":"人写的" 
+}
