@@ -4,6 +4,12 @@
 ![untitled1](https://cloud.githubusercontent.com/assets/23016977/21512800/e61c8704-cca8-11e6-866b-da54b0e07903.png)
 
 
+![german](https://cloud.githubusercontent.com/assets/23016977/25701447/5a56ff9e-30c4-11e7-8e9a-715c7aee232c.png)
+![spanish](https://cloud.githubusercontent.com/assets/23016977/25701450/5c41b088-30c4-11e7-90d5-2e8b9c54a502.jpg)
+![chinese](https://cloud.githubusercontent.com/assets/23016977/25701454/5eca89a6-30c4-11e7-9f3e-482a1c623f39.jpg)
+![arabic](https://cloud.githubusercontent.com/assets/23016977/25701457/61a7a2b2-30c4-11e7-9ec1-3fdb5823ebd4.jpg)
+
+
 # MIT LICENSE
 
 - Copyright (c) <2016> <copyright> Social Lantern Media
