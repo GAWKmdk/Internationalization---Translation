@@ -1,3 +1,5 @@
+An alternative to google translate. This still provides public-node read translation to pre-build language scripts composed in JSON.
+
 # Sample Website Translation using Tap:i18n translation pack 
 - Sample blog page with .json translation service.  
 ![untitled](https://cloud.githubusercontent.com/assets/23016977/21512799/e51280fc-cca8-11e6-82e0-bf200462e7e2.jpg)
